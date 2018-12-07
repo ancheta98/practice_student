@@ -1,3 +1,6 @@
+//try to make person object an export from a different file and import it here
+//try to export routes
+//reference other classwork to structure this simple app similarly
 var express = require("express");
 
 var app = express();
